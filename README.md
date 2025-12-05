@@ -29,7 +29,10 @@ We categorize the evaluation into **four main task families** to support diverse
 - 📝 **Image Captioning (IC)**: Requires concise, accurate descriptions for both **Global** scenes (whole-image summary) and **Regional** details (directional sectors)。
 - 🔍 **Single-Image Evaluation (SIE)**: A specialized protocol to test deep understanding of ultra-high-resolution images (4K to $3 \times 10^8$ pixels), probing multi-scale perception and reasoning on a per-image basis.
 
-![image.png](assets/image_201.png)
+<p align="center">
+  <img src="assets/image_201.png" width="500">
+</p>
+
 
 
 ## 🔖Evaluation Results
@@ -47,11 +50,14 @@ Closed-source models dominate the leaderboard, yet they still struggle with comp
 
 We further analyze the correlation between perception and reasoning capabilities using Open-Ended VQA evaluation to avoid random guessing.
 
-![image.png](assets/image_204.png)
 
+
+<p align="center">
+  <img src="assets/image_204.png" width="48%">
+  <img src="assets/image_205.png" width="48%">
+</p>
 
 ### 📏 3. Impact of Resolution (Key Insight)
 
 Does higher resolution support lead to better performance? Our Single-Image Evaluation reveals a critical robustness issue.
 
-![image.png](assets/image_205.png)
