@@ -1,5 +1,5 @@
 
-# *RSHR*: A Benchmark for MLLMs on Ultra-High-Resolution Remote Sensing Data
+# A Benchmark for MLLMs on Ultra-High-Resolution Remote Sensing Data
 
 ```
     If our project helps you, please give us a star ⭐ on GitHub to support us💕
@@ -7,7 +7,7 @@
 
 ## 🔥 News
 
-- **`2025-11-14`** 🎉 We released the paper : *RSHR*: A Benchmark for MLLMs on Ultra-High-Resolution Remote Sensing Data.
+- **`2025-11-14`** 🎉 We released the paper : A Benchmark for MLLMs on Ultra-High-Resolution Remote Sensing Data.
 * **`2025-11-14`** 🎉 We released the benchmark dataset on Hugging Face: [XHRBench (FelixKAI/XHRBench)](https://huggingface.co/datasets/FelixKAI/XHRBench).
 
 ## 😼*RSHR* Overview
