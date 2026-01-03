@@ -1,6 +1,16 @@
 
 # A Benchmark for MLLMs on Ultra-High-Resolution Remote Sensing Data
 
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2512.17319" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2512.17319-B31B1B.svg" alt="arXiv Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Yunkaidang&color=blue" alt="GitHub Views"/>
+</p>
+
+
 ```
     If our project helps you, please give us a star ⭐ on GitHub to support us💕
 ```
