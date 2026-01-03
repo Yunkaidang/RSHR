@@ -1,6 +1,6 @@
 
-# A Benchmark for MLLMs on Ultra-High-Resolution Remote Sensing Data
 
+<h3 align="center">A Benchmark for MLLMs on Ultra-High-Resolution Remote Sensing Data</h3>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2512.17319" target="_blank">
