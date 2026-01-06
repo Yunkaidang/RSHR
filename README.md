@@ -72,3 +72,18 @@ We further analyze the correlation between perception and reasoning capabilities
 
 Does higher resolution support lead to better performance? Our Single-Image Evaluation reveals a critical robustness issue.
 
+
+## Citation
+```bibtex
+@article{dang2025benchmark,
+  title={A Benchmark for Ultra-High-Resolution Remote Sensing MLLMs},
+  author={Dang, Yunkai and Zhu, Meiyi and Wang, Donghao and Zhang, Yizhuo and Yang, Jiacheng and Fan, Qi and Yang, Yuekun and Li, Wenbin and Miao, Feng and Gao, Yang},
+  journal={arXiv preprint arXiv:2512.17319},
+  year={2025}
+}
+
+```
+
+
+
+
