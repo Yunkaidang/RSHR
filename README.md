@@ -6,6 +6,9 @@
   <a href="https://arxiv.org/abs/2512.17319" target="_blank">
     <img src="https://img.shields.io/badge/arXiv-2512.17319-B31B1B.svg" alt="arXiv Badge"/>
   </a>
+  <a href="https://huggingface.co/datasets/FelixKAI/XHRBench" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-Dataset-yellow" alt="Hugging Face Dataset"/>
+  </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Yunkaidang&color=blue" alt="GitHub Views"/>
 </p>
